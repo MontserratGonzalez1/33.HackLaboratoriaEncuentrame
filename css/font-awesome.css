@@ -1717,6 +1717,10 @@
 .fa-ship:before {
   content: "\f21a";
 }
+.fa-user:before {
+  content: "\f21b";
+
+}
 .fa-user-secret:before {
   content: "\f21b";
 }
